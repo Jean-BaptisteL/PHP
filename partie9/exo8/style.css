@@ -1,0 +1,24 @@
+h1{
+  font-style: italic;
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+}
+p{
+  font-size: 1.2em;
+}
+span{
+  font-weight: bold;
+  font-style: italic;
+}
+a{
+  padding: 3px;
+  box-shadow: 4px 3px 5px rgba(0,0,0,.7);
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  background-color: rgba(184,183,183,0.2);
+}
+a:active{
+  box-shadow: inset 4px 3px 5px rgba(0,0,0,.7);
+}
