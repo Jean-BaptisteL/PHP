@@ -1,0 +1,15 @@
+figcaption{
+    font-size: 2em;
+    font-style: italic;
+}
+img{
+    width: 45%;
+    height: auto;
+}
+h1, h2{
+    text-align: center;
+    text-decoration: underline;
+}
+h1{
+    color: red;
+}

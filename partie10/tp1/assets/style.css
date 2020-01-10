@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    font-family: arial;
+}
+h1{
+    font-style: italic;
+    text-decoration: underline;
+    color: red;
+    text-align: center;
+    font-size: 2.5em;
+}
+fieldset{
+    border-radius: 2%;
+    width: 35%;
+    text-align: center;
+    background-color: #a7a7a7;
+}
+.formOrTable{
+    display: flex;
+    justify-content: center;
+}
+input, textArea, select{
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+label{
+    color: #331e36;
+}
+h2{
+    color: #331e36;
+}
+.data{
+    font-weight: bold;
+}
+p{
+    color: red;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    border: black 1px solid;
+    padding: 5px;
+}
+caption{
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
